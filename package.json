@@ -1,0 +1,7 @@
+{
+ "name": "demo1",
+ "version": "1.0.0",
+ "description": "A Vue.js project",
+ "author": "diaojinlong <bysdjl@163.com>",
+ "main": "index.js"
+}
